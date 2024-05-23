@@ -1,0 +1,6 @@
+[submodule "notification-sender"]
+	path = notification-sender
+	url = https://github.com/ishantSikdar/notification-sender
+[submodule "notification-receiver"]
+	path = notification-receiver
+	url = https://github.com/ishantSikdar/notification-receiver
